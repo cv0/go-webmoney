@@ -23,7 +23,7 @@ import (
 	"net/http"
 	"strconv"
 	"strings"
-	"webmoney/wmsigner"
+	"github.com/cv0/go-webmoney/wmsigner"
 )
 
 // cononical name for structs
