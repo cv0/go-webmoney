@@ -2,7 +2,7 @@ package tests
 
 import "testing"
 import "webmoney"
-import "webmoney/wmsigner"
+import "github.com/cv0/go-webmoney/wmsigner"
 
 func TestX7(t *testing.T) {
 	wmCl := webmoney.WmClient{
